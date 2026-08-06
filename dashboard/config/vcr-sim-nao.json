@@ -1,0 +1,14 @@
+{
+    "values":  [
+                   {
+                       "value":  "Sim",
+                       "label":  "Sim"
+                   },
+                   {
+                       "value":  "Não",
+                       "label":  "Não"
+                   }
+               ],
+    "title":  "Sim/Não",
+    "id":  "sim-nao"
+}

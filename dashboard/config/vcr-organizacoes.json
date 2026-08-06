@@ -1,0 +1,978 @@
+{
+    "values":  [
+                   {
+                       "value":  "Advocacia-Geral da União - AGU",
+                       "label":  "Advocacia-Geral da União - AGU"
+                   },
+                   {
+                       "value":  "Agência Brasileira de Promoção Internacional do Turismo - EMBRATUR",
+                       "label":  "Agência Brasileira de Promoção Internacional do Turismo - EMBRATUR"
+                   },
+                   {
+                       "value":  "Agência Espacial Brasileira - AEB",
+                       "label":  "Agência Espacial Brasileira - AEB"
+                   },
+                   {
+                       "value":  "Agência Nacional de Águas e Saneamento Básico - ANA",
+                       "label":  "Agência Nacional de Águas e Saneamento Básico - ANA"
+                   },
+                   {
+                       "value":  "Agência Nacional de Aviação Civil - ANAC",
+                       "label":  "Agência Nacional de Aviação Civil - ANAC"
+                   },
+                   {
+                       "value":  "Agência Nacional de Energia Elétrica - ANEEL",
+                       "label":  "Agência Nacional de Energia Elétrica - ANEEL"
+                   },
+                   {
+                       "value":  "Agência Nacional de Mineração - ANM",
+                       "label":  "Agência Nacional de Mineração - ANM"
+                   },
+                   {
+                       "value":  "Agência Nacional de Proteção de Dados - ANPD",
+                       "label":  "Agência Nacional de Proteção de Dados - ANPD"
+                   },
+                   {
+                       "value":  "Agência Nacional de Saúde Suplementar - ANS",
+                       "label":  "Agência Nacional de Saúde Suplementar - ANS"
+                   },
+                   {
+                       "value":  "Agência Nacional de Telecomunicações - ANATEL",
+                       "label":  "Agência Nacional de Telecomunicações - ANATEL"
+                   },
+                   {
+                       "value":  "Agência Nacional de Transportes Aquaviários - ANTAQ",
+                       "label":  "Agência Nacional de Transportes Aquaviários - ANTAQ"
+                   },
+                   {
+                       "value":  "Agência Nacional de Transportes Terrestres - ANTT",
+                       "label":  "Agência Nacional de Transportes Terrestres - ANTT"
+                   },
+                   {
+                       "value":  "Agência Nacional de Vigilância Sanitária - ANVISA",
+                       "label":  "Agência Nacional de Vigilância Sanitária - ANVISA"
+                   },
+                   {
+                       "value":  "Agência Nacional do Cinema - ANCINE",
+                       "label":  "Agência Nacional do Cinema - ANCINE"
+                   },
+                   {
+                       "value":  "Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP",
+                       "label":  "Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP"
+                   },
+                   {
+                       "value":  "Arquivo Nacional - AN",
+                       "label":  "Arquivo Nacional - AN"
+                   },
+                   {
+                       "value":  "Banco Central do Brasil - BCB",
+                       "label":  "Banco Central do Brasil - BCB"
+                   },
+                   {
+                       "value":  "Banco Nacional de Desenvolvimento Econômico e Social - BNDES",
+                       "label":  "Banco Nacional de Desenvolvimento Econômico e Social - BNDES"
+                   },
+                   {
+                       "value":  "CAIXA Econômica Federal - CAIXA",
+                       "label":  "CAIXA Econômica Federal - CAIXA"
+                   },
+                   {
+                       "value":  "Câmara dos Deputados - CD",
+                       "label":  "Câmara dos Deputados - CD"
+                   },
+                   {
+                       "value":  "Casa Civil da Presidência da República - CC-PR",
+                       "label":  "Casa Civil da Presidência da República - CC-PR"
+                   },
+                   {
+                       "value":  "Centro Brasileiro de Pesquisas Físicas - CBPF",
+                       "label":  "Centro Brasileiro de Pesquisas Físicas - CBPF"
+                   },
+                   {
+                       "value":  "Centro de Tecnologia da Informação Renato Archer - CTI",
+                       "label":  "Centro de Tecnologia da Informação Renato Archer - CTI"
+                   },
+                   {
+                       "value":  "Centro de Tecnologia Mineral - CETEM",
+                       "label":  "Centro de Tecnologia Mineral - CETEM"
+                   },
+                   {
+                       "value":  "Centro de Tecnologias Estratégicas do Nordeste - CETENE",
+                       "label":  "Centro de Tecnologias Estratégicas do Nordeste - CETENE"
+                   },
+                   {
+                       "value":  "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - CEFET-RJ",
+                       "label":  "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - CEFET-RJ"
+                   },
+                   {
+                       "value":  "Centro Federal de Educação Tecnológica de Minas Gerais - CEFET-MG",
+                       "label":  "Centro Federal de Educação Tecnológica de Minas Gerais - CEFET-MG"
+                   },
+                   {
+                       "value":  "Colégio Pedro II - CP II",
+                       "label":  "Colégio Pedro II - CP II"
+                   },
+                   {
+                       "value":  "Comando da Aeronáutica - COMAER",
+                       "label":  "Comando da Aeronáutica - COMAER"
+                   },
+                   {
+                       "value":  "Comando da Marinha - MB",
+                       "label":  "Comando da Marinha - MB"
+                   },
+                   {
+                       "value":  "Comando do Exército - C Ex",
+                       "label":  "Comando do Exército - C Ex"
+                   },
+                   {
+                       "value":  "Comissão de Valores Mobiliários - CVM",
+                       "label":  "Comissão de Valores Mobiliários - CVM"
+                   },
+                   {
+                       "value":  "Comissão Nacional de Energia Nuclear - CNEN",
+                       "label":  "Comissão Nacional de Energia Nuclear - CNEN"
+                   },
+                   {
+                       "value":  "Conselho Administrativo de Defesa Econômica - CADE",
+                       "label":  "Conselho Administrativo de Defesa Econômica - CADE"
+                   },
+                   {
+                       "value":  "Conselho de Controle de Atividades Financeiras - Coaf",
+                       "label":  "Conselho de Controle de Atividades Financeiras - Coaf"
+                   },
+                   {
+                       "value":  "Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq",
+                       "label":  "Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq"
+                   },
+                   {
+                       "value":  "Conselho Nacional do Ministério Público - CNMP",
+                       "label":  "Conselho Nacional do Ministério Público - CNMP"
+                   },
+                   {
+                       "value":  "Controladoria-Geral da União - CGU",
+                       "label":  "Controladoria-Geral da União - CGU"
+                   },
+                   {
+                       "value":  "Departamento Nacional de Infraestrutura de Transportes - DNIT",
+                       "label":  "Departamento Nacional de Infraestrutura de Transportes - DNIT"
+                   },
+                   {
+                       "value":  "Departamento Nacional de Obras Contra as Secas - DNOCS",
+                       "label":  "Departamento Nacional de Obras Contra as Secas - DNOCS"
+                   },
+                   {
+                       "value":  "Empresa Brasileira de Pesquisa Agropecuária - EMBRAPA",
+                       "label":  "Empresa Brasileira de Pesquisa Agropecuária - EMBRAPA"
+                   },
+                   {
+                       "value":  "Empresa Brasileira de Serviços Hospitalares - EBSERH",
+                       "label":  "Empresa Brasileira de Serviços Hospitalares - EBSERH"
+                   },
+                   {
+                       "value":  "Empresa de Pesquisa Energética - EPE",
+                       "label":  "Empresa de Pesquisa Energética - EPE"
+                   },
+                   {
+                       "value":  "Escola Superior de Guerra - ESG",
+                       "label":  "Escola Superior de Guerra - ESG"
+                   },
+                   {
+                       "value":  "Fundação Alexandre de Gusmão - FUNAG",
+                       "label":  "Fundação Alexandre de Gusmão - FUNAG"
+                   },
+                   {
+                       "value":  "Fundação Biblioteca Nacional - FBN",
+                       "label":  "Fundação Biblioteca Nacional - FBN"
+                   },
+                   {
+                       "value":  "Fundação Casa de Rui Barbosa - FCRB",
+                       "label":  "Fundação Casa de Rui Barbosa - FCRB"
+                   },
+                   {
+                       "value":  "Fundação Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - CAPES",
+                       "label":  "Fundação Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - CAPES"
+                   },
+                   {
+                       "value":  "Fundação Cultural Palmares - FCP",
+                       "label":  "Fundação Cultural Palmares - FCP"
+                   },
+                   {
+                       "value":  "Fundação de Previdência Complementar do Servidor Público Federal - Funpresp-Exe",
+                       "label":  "Fundação de Previdência Complementar do Servidor Público Federal - Funpresp-Exe"
+                   },
+                   {
+                       "value":  "Fundação Escola Nacional de Administração Pública - Enap",
+                       "label":  "Fundação Escola Nacional de Administração Pública - Enap"
+                   },
+                   {
+                       "value":  "Fundação Instituto Brasileiro de Geografia e Estatística - IBGE",
+                       "label":  "Fundação Instituto Brasileiro de Geografia e Estatística - IBGE"
+                   },
+                   {
+                       "value":  "Fundação Joaquim Nabuco - FUNDAJ",
+                       "label":  "Fundação Joaquim Nabuco - FUNDAJ"
+                   },
+                   {
+                       "value":  "Fundação Jorge Duprat Figueiredo de Segurança e Medicina do Trabalho - FUNDACENTRO",
+                       "label":  "Fundação Jorge Duprat Figueiredo de Segurança e Medicina do Trabalho - FUNDACENTRO"
+                   },
+                   {
+                       "value":  "Fundação Nacional de Artes - FUNARTE",
+                       "label":  "Fundação Nacional de Artes - FUNARTE"
+                   },
+                   {
+                       "value":  "Fundação Nacional de Saúde - FUNASA",
+                       "label":  "Fundação Nacional de Saúde - FUNASA"
+                   },
+                   {
+                       "value":  "Fundação Nacional dos Povos Indígenas - FUNAI",
+                       "label":  "Fundação Nacional dos Povos Indígenas - FUNAI"
+                   },
+                   {
+                       "value":  "Fundação Oswaldo Cruz - FIOCRUZ",
+                       "label":  "Fundação Oswaldo Cruz - FIOCRUZ"
+                   },
+                   {
+                       "value":  "Fundação Universidade de Brasília - UNB",
+                       "label":  "Fundação Universidade de Brasília - UNB"
+                   },
+                   {
+                       "value":  "Fundação Universidade Federal de Ciências da Saúde de Porto Alegre - UFCSPA",
+                       "label":  "Fundação Universidade Federal de Ciências da Saúde de Porto Alegre - UFCSPA"
+                   },
+                   {
+                       "value":  "Fundação Universidade Federal de Mato Grosso - UFMT",
+                       "label":  "Fundação Universidade Federal de Mato Grosso - UFMT"
+                   },
+                   {
+                       "value":  "Fundação Universidade Federal de Mato Grosso do Sul - UFMS",
+                       "label":  "Fundação Universidade Federal de Mato Grosso do Sul - UFMS"
+                   },
+                   {
+                       "value":  "Fundação Universidade Federal de Ouro Preto - FUFOP",
+                       "label":  "Fundação Universidade Federal de Ouro Preto - FUFOP"
+                   },
+                   {
+                       "value":  "Fundação Universidade Federal de Pelotas - UFPel",
+                       "label":  "Fundação Universidade Federal de Pelotas - UFPel"
+                   },
+                   {
+                       "value":  "Fundação Universidade Federal de Rondônia - UNIR",
+                       "label":  "Fundação Universidade Federal de Rondônia - UNIR"
+                   },
+                   {
+                       "value":  "Fundação Universidade Federal de Roraima - UFRR",
+                       "label":  "Fundação Universidade Federal de Roraima - UFRR"
+                   },
+                   {
+                       "value":  "Fundação Universidade Federal de São Carlos - UFSCar",
+                       "label":  "Fundação Universidade Federal de São Carlos - UFSCar"
+                   },
+                   {
+                       "value":  "Fundação Universidade Federal de São João Del Rei - FUNRei",
+                       "label":  "Fundação Universidade Federal de São João Del Rei - FUNRei"
+                   },
+                   {
+                       "value":  "Fundação Universidade Federal de Sergipe - UFS",
+                       "label":  "Fundação Universidade Federal de Sergipe - UFS"
+                   },
+                   {
+                       "value":  "Fundação Universidade Federal de Viçosa - UFV",
+                       "label":  "Fundação Universidade Federal de Viçosa - UFV"
+                   },
+                   {
+                       "value":  "Fundação Universidade Federal do ABC - UFABC",
+                       "label":  "Fundação Universidade Federal do ABC - UFABC"
+                   },
+                   {
+                       "value":  "Fundação Universidade Federal do Acre - UFAC",
+                       "label":  "Fundação Universidade Federal do Acre - UFAC"
+                   },
+                   {
+                       "value":  "Fundação Universidade Federal do Amapá - UNIFAP",
+                       "label":  "Fundação Universidade Federal do Amapá - UNIFAP"
+                   },
+                   {
+                       "value":  "Fundação Universidade Federal do Amazonas - UFAM",
+                       "label":  "Fundação Universidade Federal do Amazonas - UFAM"
+                   },
+                   {
+                       "value":  "Fundação Universidade Federal do Grande Dourados - UFGD",
+                       "label":  "Fundação Universidade Federal do Grande Dourados - UFGD"
+                   },
+                   {
+                       "value":  "Fundação Universidade Federal do Maranhão - UFMA",
+                       "label":  "Fundação Universidade Federal do Maranhão - UFMA"
+                   },
+                   {
+                       "value":  "Fundação Universidade Federal do Pampa - UNIPAMPA",
+                       "label":  "Fundação Universidade Federal do Pampa - UNIPAMPA"
+                   },
+                   {
+                       "value":  "Fundação Universidade Federal do Piauí - UFPI",
+                       "label":  "Fundação Universidade Federal do Piauí - UFPI"
+                   },
+                   {
+                       "value":  "Fundação Universidade Federal do Rio Grande - FURG",
+                       "label":  "Fundação Universidade Federal do Rio Grande - FURG"
+                   },
+                   {
+                       "value":  "Fundação Universidade Federal do Tocantins - UFT",
+                       "label":  "Fundação Universidade Federal do Tocantins - UFT"
+                   },
+                   {
+                       "value":  "Fundação Universidade Federal do Vale do São Francisco - UNIVASF",
+                       "label":  "Fundação Universidade Federal do Vale do São Francisco - UNIVASF"
+                   },
+                   {
+                       "value":  "Fundo Nacional de Desenvolvimento da Educação - FNDE",
+                       "label":  "Fundo Nacional de Desenvolvimento da Educação - FNDE"
+                   },
+                   {
+                       "value":  "Gabinete de Segurança Institucional da Presidência da República - GSI/PR",
+                       "label":  "Gabinete de Segurança Institucional da Presidência da República - GSI/PR"
+                   },
+                   {
+                       "value":  "Hospital das Forças Armadas - HFA",
+                       "label":  "Hospital das Forças Armadas - HFA"
+                   },
+                   {
+                       "value":  "Imprensa Nacional - IN/CCIVIL",
+                       "label":  "Imprensa Nacional - IN/CCIVIL"
+                   },
+                   {
+                       "value":  "Instituto Benjamin Constant - IBC",
+                       "label":  "Instituto Benjamin Constant - IBC"
+                   },
+                   {
+                       "value":  "Instituto Brasileiro de Informação em Ciência e Tecnologia - IBICT",
+                       "label":  "Instituto Brasileiro de Informação em Ciência e Tecnologia - IBICT"
+                   },
+                   {
+                       "value":  "Instituto Brasileiro de Museus - IBRAM",
+                       "label":  "Instituto Brasileiro de Museus - IBRAM"
+                   },
+                   {
+                       "value":  "Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA",
+                       "label":  "Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA"
+                   },
+                   {
+                       "value":  "Instituto Chico Mendes de Conservação da Biodiversidade - ICMBio",
+                       "label":  "Instituto Chico Mendes de Conservação da Biodiversidade - ICMBio"
+                   },
+                   {
+                       "value":  "Instituto de Pesquisa Econômica Aplicada - IPEA",
+                       "label":  "Instituto de Pesquisa Econômica Aplicada - IPEA"
+                   },
+                   {
+                       "value":  "Instituto de Pesquisas Jardim Botânico do Rio de Janeiro - JBRJ",
+                       "label":  "Instituto de Pesquisas Jardim Botânico do Rio de Janeiro - JBRJ"
+                   },
+                   {
+                       "value":  "Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN",
+                       "label":  "Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia Baiano - IF BAIANO",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia Baiano - IF BAIANO"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia Catarinense - IFC",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia Catarinense - IFC"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia da Bahia - IFBA",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia da Bahia - IFBA"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia de Alagoas - IFAL",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia de Alagoas - IFAL"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia de Brasília - IFB",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia de Brasília - IFB"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia de Goiás - IFG",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia de Goiás - IFG"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso - IFMT",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso - IFMT"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul - IFMS",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul - IFMS"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais - IFMG",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais - IFMG"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco - IFPE",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco - IFPE"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia de Rondônia - IFRO",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia de Rondônia - IFRO"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia de Roraima - IFRR",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia de Roraima - IFRR"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina - IFSC",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina - IFSC"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia de Sergipe - IFS",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia de Sergipe - IFS"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia do Acre - IFAC",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia do Acre - IFAC"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia do Amapá - IFAP",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia do Amapá - IFAP"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas - IFAM",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas - IFAM"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo - IFES",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo - IFES"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia do Maranhão - IFMA",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia do Maranhão - IFMA"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais - IFNMG",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais - IFNMG"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia do Pará - IFPA",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia do Pará - IFPA"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia do Paraná - IFPR",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia do Paraná - IFPR"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia do Piauí - IFPI",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia do Piauí - IFPI"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro - IFRJ",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro - IFRJ"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - IFRN",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - IFRN"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - IFRS",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - IFRS"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano - IFSertaoPE",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano - IFSertaoPE"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais - IFSUDMG",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais - IFSUDMG"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - IFSULMG",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - IFSULMG"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia do Tocantins - IFTO",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia do Tocantins - IFTO"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - IFTM",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - IFTM"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia Farroupilha - IFFAR",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia Farroupilha - IFFAR"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia Fluminense - IFF",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia Fluminense - IFF"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia Goiano - IF-GOIANO",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia Goiano - IF-GOIANO"
+                   },
+                   {
+                       "value":  "Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense - IFSul",
+                       "label":  "Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense - IFSul"
+                   },
+                   {
+                       "value":  "Instituto Nacional da Propriedade Industrial - INPI",
+                       "label":  "Instituto Nacional da Propriedade Industrial - INPI"
+                   },
+                   {
+                       "value":  "Instituto Nacional de Colonização e Reforma Agrária - INCRA",
+                       "label":  "Instituto Nacional de Colonização e Reforma Agrária - INCRA"
+                   },
+                   {
+                       "value":  "Instituto Nacional de Educação de Surdos - INES",
+                       "label":  "Instituto Nacional de Educação de Surdos - INES"
+                   },
+                   {
+                       "value":  "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP",
+                       "label":  "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP"
+                   },
+                   {
+                       "value":  "Instituto Nacional de Metrologia, Qualidade e Tecnologia - INMETRO",
+                       "label":  "Instituto Nacional de Metrologia, Qualidade e Tecnologia - INMETRO"
+                   },
+                   {
+                       "value":  "Instituto Nacional de Pesquisa do Pantanal - INPP",
+                       "label":  "Instituto Nacional de Pesquisa do Pantanal - INPP"
+                   },
+                   {
+                       "value":  "Instituto Nacional de Pesquisas da Amazônia - INPA",
+                       "label":  "Instituto Nacional de Pesquisas da Amazônia - INPA"
+                   },
+                   {
+                       "value":  "Instituto Nacional de Pesquisas Espaciais - INPE",
+                       "label":  "Instituto Nacional de Pesquisas Espaciais - INPE"
+                   },
+                   {
+                       "value":  "Instituto Nacional de Tecnologia - INT",
+                       "label":  "Instituto Nacional de Tecnologia - INT"
+                   },
+                   {
+                       "value":  "Instituto Nacional de Tecnologia da Informação - ITI",
+                       "label":  "Instituto Nacional de Tecnologia da Informação - ITI"
+                   },
+                   {
+                       "value":  "Instituto Nacional do Seguro Social - INSS",
+                       "label":  "Instituto Nacional do Seguro Social - INSS"
+                   },
+                   {
+                       "value":  "Instituto Nacional do Semiárido - INSA",
+                       "label":  "Instituto Nacional do Semiárido - INSA"
+                   },
+                   {
+                       "value":  "Laboratório Nacional de Astrofísica - LNA",
+                       "label":  "Laboratório Nacional de Astrofísica - LNA"
+                   },
+                   {
+                       "value":  "Laboratório Nacional de Computação Científica - LNCC/MCT",
+                       "label":  "Laboratório Nacional de Computação Científica - LNCC/MCT"
+                   },
+                   {
+                       "value":  "Ministério da Agricultura e Pecuária - MAPA",
+                       "label":  "Ministério da Agricultura e Pecuária - MAPA"
+                   },
+                   {
+                       "value":  "Ministério da Ciência, Tecnologia e Inovação - MCTI",
+                       "label":  "Ministério da Ciência, Tecnologia e Inovação - MCTI"
+                   },
+                   {
+                       "value":  "Ministério da Cultura - MinC",
+                       "label":  "Ministério da Cultura - MinC"
+                   },
+                   {
+                       "value":  "Ministério da Defesa - MD",
+                       "label":  "Ministério da Defesa - MD"
+                   },
+                   {
+                       "value":  "Ministério da Fazenda - MF",
+                       "label":  "Ministério da Fazenda - MF"
+                   },
+                   {
+                       "value":  "Ministério da Gestão e da Inovação em Serviços Públicos - MGI",
+                       "label":  "Ministério da Gestão e da Inovação em Serviços Públicos - MGI"
+                   },
+                   {
+                       "value":  "Ministério da Igualdade Racial - MIR",
+                       "label":  "Ministério da Igualdade Racial - MIR"
+                   },
+                   {
+                       "value":  "Ministério da Integração e do Desenvolvimento Regional - MIDR",
+                       "label":  "Ministério da Integração e do Desenvolvimento Regional - MIDR"
+                   },
+                   {
+                       "value":  "Ministério da Justiça e Segurança Pública - MJSP",
+                       "label":  "Ministério da Justiça e Segurança Pública - MJSP"
+                   },
+                   {
+                       "value":  "Ministério da Pesca e Aquicultura - MPA",
+                       "label":  "Ministério da Pesca e Aquicultura - MPA"
+                   },
+                   {
+                       "value":  "Ministério da Previdência Social - MPS",
+                       "label":  "Ministério da Previdência Social - MPS"
+                   },
+                   {
+                       "value":  "Ministério da Saúde - MS",
+                       "label":  "Ministério da Saúde - MS"
+                   },
+                   {
+                       "value":  "Ministério das Cidades - MCID",
+                       "label":  "Ministério das Cidades - MCID"
+                   },
+                   {
+                       "value":  "Ministério das Comunicações - MCOM",
+                       "label":  "Ministério das Comunicações - MCOM"
+                   },
+                   {
+                       "value":  "Ministério das Mulheres - MMULHERES",
+                       "label":  "Ministério das Mulheres - MMULHERES"
+                   },
+                   {
+                       "value":  "Ministério das Relações Exteriores - MRE",
+                       "label":  "Ministério das Relações Exteriores - MRE"
+                   },
+                   {
+                       "value":  "Ministério de Minas e Energia - MME",
+                       "label":  "Ministério de Minas e Energia - MME"
+                   },
+                   {
+                       "value":  "Ministério de Portos e Aeroportos - MPOR",
+                       "label":  "Ministério de Portos e Aeroportos - MPOR"
+                   },
+                   {
+                       "value":  "Ministério do Desenvolvimento Agrário e Agricultura Familiar - MDA",
+                       "label":  "Ministério do Desenvolvimento Agrário e Agricultura Familiar - MDA"
+                   },
+                   {
+                       "value":  "Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome - MDS",
+                       "label":  "Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome - MDS"
+                   },
+                   {
+                       "value":  "Ministério do Desenvolvimento, Indústria, Comércio e Serviços - MDIC",
+                       "label":  "Ministério do Desenvolvimento, Indústria, Comércio e Serviços - MDIC"
+                   },
+                   {
+                       "value":  "Ministério do Educação - MEC",
+                       "label":  "Ministério do Educação - MEC"
+                   },
+                   {
+                       "value":  "Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte - ME",
+                       "label":  "Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte - ME"
+                   },
+                   {
+                       "value":  "Ministério do Esporte - MESP",
+                       "label":  "Ministério do Esporte - MESP"
+                   },
+                   {
+                       "value":  "Ministério do Meio Ambiente e Mudança do Clima - MMA",
+                       "label":  "Ministério do Meio Ambiente e Mudança do Clima - MMA"
+                   },
+                   {
+                       "value":  "Ministério do Planejamento e Orçamento - MPO",
+                       "label":  "Ministério do Planejamento e Orçamento - MPO"
+                   },
+                   {
+                       "value":  "Ministério do Trabalho e Emprego - MTE",
+                       "label":  "Ministério do Trabalho e Emprego - MTE"
+                   },
+                   {
+                       "value":  "Ministério do Turismo - MTur",
+                       "label":  "Ministério do Turismo - MTur"
+                   },
+                   {
+                       "value":  "Ministério dos Direitos Humanos e da Cidadania - MDHE",
+                       "label":  "Ministério dos Direitos Humanos e da Cidadania - MDHE"
+                   },
+                   {
+                       "value":  "Ministério dos Povos Indígenas - MPI",
+                       "label":  "Ministério dos Povos Indígenas - MPI"
+                   },
+                   {
+                       "value":  "Ministério dos Transportes - MT",
+                       "label":  "Ministério dos Transportes - MT"
+                   },
+                   {
+                       "value":  "Museu de Astronomia e Ciências Afins - MAST",
+                       "label":  "Museu de Astronomia e Ciências Afins - MAST"
+                   },
+                   {
+                       "value":  "Museu Paraense Emílio Goeldi - MPEG",
+                       "label":  "Museu Paraense Emílio Goeldi - MPEG"
+                   },
+                   {
+                       "value":  "Observatório Nacional - ON",
+                       "label":  "Observatório Nacional - ON"
+                   },
+                   {
+                       "value":  "Open Knowledge Brasil - OKBR",
+                       "label":  "Open Knowledge Brasil - OKBR"
+                   },
+                   {
+                       "value":  "Polícia Federal - PF",
+                       "label":  "Polícia Federal - PF"
+                   },
+                   {
+                       "value":  "Polícia Rodoviária Federal - PRF",
+                       "label":  "Polícia Rodoviária Federal - PRF"
+                   },
+                   {
+                       "value":  "Secretaria de Comunicação Social da Presidência da República - SECOM",
+                       "label":  "Secretaria de Comunicação Social da Presidência da República - SECOM"
+                   },
+                   {
+                       "value":  "Secretaria de Relações Institucionais da PR - SRI/PR",
+                       "label":  "Secretaria de Relações Institucionais da PR - SRI/PR"
+                   },
+                   {
+                       "value":  "Secretaria-Geral da Presidência da República - SG",
+                       "label":  "Secretaria-Geral da Presidência da República - SG"
+                   },
+                   {
+                       "value":  "Senado Federal - SF",
+                       "label":  "Senado Federal - SF"
+                   },
+                   {
+                       "value":  "Serviço Florestal Brasileiro - SFB",
+                       "label":  "Serviço Florestal Brasileiro - SFB"
+                   },
+                   {
+                       "value":  "Superintendência da Zona Franca de Manaus - SUFRAMA",
+                       "label":  "Superintendência da Zona Franca de Manaus - SUFRAMA"
+                   },
+                   {
+                       "value":  "Superintendência de Seguros Privados - SUSEP",
+                       "label":  "Superintendência de Seguros Privados - SUSEP"
+                   },
+                   {
+                       "value":  "Superintendência do Desenvolvimento da Amazônia - SUDAM",
+                       "label":  "Superintendência do Desenvolvimento da Amazônia - SUDAM"
+                   },
+                   {
+                       "value":  "Superintendência do Desenvolvimento do Centro-Oeste - SUDECO",
+                       "label":  "Superintendência do Desenvolvimento do Centro-Oeste - SUDECO"
+                   },
+                   {
+                       "value":  "Superintendência do Desenvolvimento do Nordeste - SUDENE",
+                       "label":  "Superintendência do Desenvolvimento do Nordeste - SUDENE"
+                   },
+                   {
+                       "value":  "Superintendência Nacional de Previdência Complementar - PREVIC",
+                       "label":  "Superintendência Nacional de Previdência Complementar - PREVIC"
+                   },
+                   {
+                       "value":  "Tribunal de Contas da União - TCU",
+                       "label":  "Tribunal de Contas da União - TCU"
+                   },
+                   {
+                       "value":  "Tribunal Superior Eleitoral - TSE",
+                       "label":  "Tribunal Superior Eleitoral - TSE"
+                   },
+                   {
+                       "value":  "Universidade da Integração Internacional da Lusofonia Afro-Brasileira - UNILAB",
+                       "label":  "Universidade da Integração Internacional da Lusofonia Afro-Brasileira - UNILAB"
+                   },
+                   {
+                       "value":  "Universidade de Brasília - UNB",
+                       "label":  "Universidade de Brasília - UNB"
+                   },
+                   {
+                       "value":  "Universidade Federal da Bahia - UFBA",
+                       "label":  "Universidade Federal da Bahia - UFBA"
+                   },
+                   {
+                       "value":  "Universidade Federal da Fronteira Sul - UFFS",
+                       "label":  "Universidade Federal da Fronteira Sul - UFFS"
+                   },
+                   {
+                       "value":  "Universidade Federal da Integração Latino-Americana - UNILA",
+                       "label":  "Universidade Federal da Integração Latino-Americana - UNILA"
+                   },
+                   {
+                       "value":  "Universidade Federal da Paraíba - UFPB",
+                       "label":  "Universidade Federal da Paraíba - UFPB"
+                   },
+                   {
+                       "value":  "Universidade Federal de Alagoas - UFAL",
+                       "label":  "Universidade Federal de Alagoas - UFAL"
+                   },
+                   {
+                       "value":  "Universidade Federal de Alfenas - UNIFAL-MG",
+                       "label":  "Universidade Federal de Alfenas - UNIFAL-MG"
+                   },
+                   {
+                       "value":  "Universidade Federal de Campina Grande - UFCG",
+                       "label":  "Universidade Federal de Campina Grande - UFCG"
+                   },
+                   {
+                       "value":  "Universidade Federal de Catalão - UFCat",
+                       "label":  "Universidade Federal de Catalão - UFCat"
+                   },
+                   {
+                       "value":  "Universidade Federal de Goiás - UFG",
+                       "label":  "Universidade Federal de Goiás - UFG"
+                   },
+                   {
+                       "value":  "Universidade Federal de Itajubá - UNIFEI",
+                       "label":  "Universidade Federal de Itajubá - UNIFEI"
+                   },
+                   {
+                       "value":  "Universidade Federal de Jataí - UFJ",
+                       "label":  "Universidade Federal de Jataí - UFJ"
+                   },
+                   {
+                       "value":  "Universidade Federal de Juiz de Fora - UFJF",
+                       "label":  "Universidade Federal de Juiz de Fora - UFJF"
+                   },
+                   {
+                       "value":  "Universidade Federal de Lavras - UFLA",
+                       "label":  "Universidade Federal de Lavras - UFLA"
+                   },
+                   {
+                       "value":  "Universidade Federal de Minas Gerais - UFMG",
+                       "label":  "Universidade Federal de Minas Gerais - UFMG"
+                   },
+                   {
+                       "value":  "Universidade Federal de Pernambuco - UFPE",
+                       "label":  "Universidade Federal de Pernambuco - UFPE"
+                   },
+                   {
+                       "value":  "Universidade Federal de Rondonópolis - UFR",
+                       "label":  "Universidade Federal de Rondonópolis - UFR"
+                   },
+                   {
+                       "value":  "Universidade Federal de Santa Catarina - UFSC",
+                       "label":  "Universidade Federal de Santa Catarina - UFSC"
+                   },
+                   {
+                       "value":  "Universidade Federal de Santa Maria - UFSM",
+                       "label":  "Universidade Federal de Santa Maria - UFSM"
+                   },
+                   {
+                       "value":  "Universidade Federal de São Paulo - UNIFESP",
+                       "label":  "Universidade Federal de São Paulo - UNIFESP"
+                   },
+                   {
+                       "value":  "Universidade Federal de Uberlândia - UFU",
+                       "label":  "Universidade Federal de Uberlândia - UFU"
+                   },
+                   {
+                       "value":  "Universidade Federal do Agreste de Pernambuco - UFAPE",
+                       "label":  "Universidade Federal do Agreste de Pernambuco - UFAPE"
+                   },
+                   {
+                       "value":  "Universidade Federal do Cariri - UFCA",
+                       "label":  "Universidade Federal do Cariri - UFCA"
+                   },
+                   {
+                       "value":  "Universidade Federal do Ceará - UFC",
+                       "label":  "Universidade Federal do Ceará - UFC"
+                   },
+                   {
+                       "value":  "Universidade Federal do Delta do Parnaíba - UFDPar",
+                       "label":  "Universidade Federal do Delta do Parnaíba - UFDPar"
+                   },
+                   {
+                       "value":  "Universidade Federal do Espírito Santo - UFES",
+                       "label":  "Universidade Federal do Espírito Santo - UFES"
+                   },
+                   {
+                       "value":  "Universidade Federal do Estado do Rio de Janeiro - UNIRIO",
+                       "label":  "Universidade Federal do Estado do Rio de Janeiro - UNIRIO"
+                   },
+                   {
+                       "value":  "Universidade Federal do Norte do Tocantins - UFNT",
+                       "label":  "Universidade Federal do Norte do Tocantins - UFNT"
+                   },
+                   {
+                       "value":  "Universidade Federal do Oeste da Bahia - UFOB",
+                       "label":  "Universidade Federal do Oeste da Bahia - UFOB"
+                   },
+                   {
+                       "value":  "Universidade Federal do Oeste do Pará - UFOPA",
+                       "label":  "Universidade Federal do Oeste do Pará - UFOPA"
+                   },
+                   {
+                       "value":  "Universidade Federal do Pará - UFPA",
+                       "label":  "Universidade Federal do Pará - UFPA"
+                   },
+                   {
+                       "value":  "Universidade Federal do Paraná - UFPR",
+                       "label":  "Universidade Federal do Paraná - UFPR"
+                   },
+                   {
+                       "value":  "Universidade Federal do Recôncavo da Bahia - UFRB",
+                       "label":  "Universidade Federal do Recôncavo da Bahia - UFRB"
+                   },
+                   {
+                       "value":  "Universidade Federal do Rio de Janeiro - UFRJ",
+                       "label":  "Universidade Federal do Rio de Janeiro - UFRJ"
+                   },
+                   {
+                       "value":  "Universidade Federal do Rio Grande do Norte - UFRN",
+                       "label":  "Universidade Federal do Rio Grande do Norte - UFRN"
+                   },
+                   {
+                       "value":  "Universidade Federal do Rio Grande do Sul - UFRGS",
+                       "label":  "Universidade Federal do Rio Grande do Sul - UFRGS"
+                   },
+                   {
+                       "value":  "Universidade Federal do Sul da Bahia - UFSB",
+                       "label":  "Universidade Federal do Sul da Bahia - UFSB"
+                   },
+                   {
+                       "value":  "Universidade Federal do Sul e Sudeste do Pará - Unifesspa",
+                       "label":  "Universidade Federal do Sul e Sudeste do Pará - Unifesspa"
+                   },
+                   {
+                       "value":  "Universidade Federal do Triângulo Mineiro - UFTM",
+                       "label":  "Universidade Federal do Triângulo Mineiro - UFTM"
+                   },
+                   {
+                       "value":  "Universidade Federal dos Vales do Jequitinhonha e Mucuri - UFVJM",
+                       "label":  "Universidade Federal dos Vales do Jequitinhonha e Mucuri - UFVJM"
+                   },
+                   {
+                       "value":  "Universidade Federal Fluminense - UFF",
+                       "label":  "Universidade Federal Fluminense - UFF"
+                   },
+                   {
+                       "value":  "Universidade Federal Rural da Amazônia - UFRA",
+                       "label":  "Universidade Federal Rural da Amazônia - UFRA"
+                   },
+                   {
+                       "value":  "Universidade Federal Rural de Pernambuco - UFRPE",
+                       "label":  "Universidade Federal Rural de Pernambuco - UFRPE"
+                   },
+                   {
+                       "value":  "Universidade Federal Rural do Rio de Janeiro - UFRRJ",
+                       "label":  "Universidade Federal Rural do Rio de Janeiro - UFRRJ"
+                   },
+                   {
+                       "value":  "Universidade Federal Rural do Semi-Árido - UFERSA-RN",
+                       "label":  "Universidade Federal Rural do Semi-Árido - UFERSA-RN"
+                   },
+                   {
+                       "value":  "Universidade Tecnológica Federal do Paraná - UTFPR",
+                       "label":  "Universidade Tecnológica Federal do Paraná - UTFPR"
+                   },
+                   {
+                       "value":  "Vice-Presidência da República - VPR",
+                       "label":  "Vice-Presidência da República - VPR"
+                   }
+               ],
+    "title":  "Organizações Participantes",
+    "id":  "organizacoes"
+}

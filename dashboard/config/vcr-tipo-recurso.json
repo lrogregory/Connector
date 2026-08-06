@@ -1,0 +1,26 @@
+{
+    "values":  [
+                   {
+                       "value":  "API",
+                       "label":  "API"
+                   },
+                   {
+                       "value":  "Dados",
+                       "label":  "Dados"
+                   },
+                   {
+                       "value":  "Dicionários de dados",
+                       "label":  "Dicionários de dados"
+                   },
+                   {
+                       "value":  "Documentação",
+                       "label":  "Documentação"
+                   },
+                   {
+                       "value":  "Outro",
+                       "label":  "Outro"
+                   }
+               ],
+    "title":  "Tipo de Recurso",
+    "id":  "tipo-recurso"
+}

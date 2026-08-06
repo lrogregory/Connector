@@ -1,0 +1,14 @@
+{
+    "values":  [
+                   {
+                       "value":  "Pública",
+                       "label":  "Pública"
+                   },
+                   {
+                       "value":  "Privado",
+                       "label":  "Privado"
+                   }
+               ],
+    "title":  "Visibilidade",
+    "id":  "visibilidade"
+}

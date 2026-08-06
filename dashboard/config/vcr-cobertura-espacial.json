@@ -1,0 +1,46 @@
+{
+    "values":  [
+                   {
+                       "value":  "Brasil",
+                       "label":  "Brasil"
+                   },
+                   {
+                       "value":  "Federal",
+                       "label":  "Federal"
+                   },
+                   {
+                       "value":  "Estado/Distrito Federal",
+                       "label":  "Estado/Distrito Federal"
+                   },
+                   {
+                       "value":  "Município",
+                       "label":  "Município"
+                   },
+                   {
+                       "value":  "Região Norte",
+                       "label":  "Região Norte"
+                   },
+                   {
+                       "value":  "Região Nordeste",
+                       "label":  "Região Nordeste"
+                   },
+                   {
+                       "value":  "Região Centro-Oeste",
+                       "label":  "Região Centro-Oeste"
+                   },
+                   {
+                       "value":  "Região Sudeste",
+                       "label":  "Região Sudeste"
+                   },
+                   {
+                       "value":  "Região Sul",
+                       "label":  "Região Sul"
+                   },
+                   {
+                       "value":  "Internacional",
+                       "label":  "Internacional"
+                   }
+               ],
+    "title":  "Cobertura Espacial",
+    "id":  "cobertura-espacial"
+}
