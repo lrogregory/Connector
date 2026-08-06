@@ -1,7 +1,0 @@
-config/controlplane.properties
-config/dataplane.properties
-.dashboard.pid
-__pycache__/
-*.pyc
-launcher/
-launchers.tar.gz
